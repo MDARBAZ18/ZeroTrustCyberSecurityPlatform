@@ -72,6 +72,19 @@ project/
 - Access the application at `http://localhost:5173`.
 - Use the dashboard to monitor system health and manage users.
 
+## Problem Statement
+In today's digital landscape, traditional perimeter-based security models are no longer sufficient to protect sensitive data and systems. Organizations face challenges such as unauthorized access, insider threats, and evolving cyberattacks. A robust security framework is needed to ensure that no entity, whether inside or outside the network, is trusted by default.
+
+## Solution
+The Zero Trust Cybersecurity Platform addresses these challenges by implementing the Zero Trust model. This platform ensures:
+- **Identity Verification**: Multi-factor authentication (MFA) to verify user identities.
+- **Access Control**: Strict access policies to ensure users only access what they are authorized to.
+- **Threat Monitoring**: Real-time monitoring and management of potential threats.
+- **Event Logging**: Comprehensive logging of system events for auditing and analysis.
+- **User Management**: Efficient management of user registrations and statuses.
+
+By adopting this platform, organizations can enhance their security posture and protect critical assets from unauthorized access and cyber threats.
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
@@ -84,4 +97,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributors
 - [MDARBAZ18](https://github.com/MDARBAZ18)
-- [GitHub Copilot](https://github.com/github-copilot)
+- [ShaikLateef9](https://github.com/ShaikLateef9)
+- [akramInCode](https://github.com/akramInCode)
+
