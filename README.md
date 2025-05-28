@@ -57,6 +57,7 @@ project/
    npm run dev
    ```
 
+<<<<<<< HEAD
 ## Build Instructions
 
 To build the project, follow these steps:
@@ -73,6 +74,8 @@ To build the project, follow these steps:
 
 This ensures that the required JSON artifacts for the smart contracts are available for the application.
 
+=======
+>>>>>>> 6314d33ae7be63cad8151236506c7612a441e77e
 ## Docker Setup
 1. Build the Docker image:
    ```bash

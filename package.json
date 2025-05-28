@@ -1,6 +1,9 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "@rollup/plugin-json": "^6.1.0",
+=======
+>>>>>>> 6314d33ae7be63cad8151236506c7612a441e77e
     "lucide-react": "^0.510.0"
   }
 }
