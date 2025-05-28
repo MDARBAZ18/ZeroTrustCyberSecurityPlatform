@@ -57,7 +57,7 @@ project/
    npm run dev
    ```
 
-<<<<<<< HEAD
+
 ## Build Instructions
 
 To build the project, follow these steps:
