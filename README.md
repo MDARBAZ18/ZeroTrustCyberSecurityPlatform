@@ -81,3 +81,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - Built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/).
 - Smart contracts powered by [Hardhat](https://hardhat.org/).
+
+## Contributors
+- [MDARBAZ18](https://github.com/MDARBAZ18)
+- [GitHub Copilot](https://github.com/github-copilot)
